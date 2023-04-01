@@ -276,12 +276,12 @@ h6 {
   height: 100vh;
   background: url("../img/hero-bg.jpg") top left no-repeat;
   background-size: cover;
-  position: relative;
+/*  position: relative;*/
 }
 
 @media (min-width: 992px) {
   #hero {
-    padding-left: 160px;
+    padding-left: 162px;
   }
 }
 
@@ -296,7 +296,8 @@ h6 {
 }
 
 #hero h1 {
-  margin: 0;
+/*  margin: 0;*/
+  margin-right: 900px
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
